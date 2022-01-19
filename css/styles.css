@@ -1,0 +1,46 @@
+body {
+  background-color:#e0ffff;
+  background-image: linear-gradient(to bottom right, #e0ffff , #ffe6f9 );
+  font-family: "Ink Free",serif;
+  font-size:20px;
+}
+
+hr {
+  border-color: #A3AAAA;
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width:7px;
+  width: 5%;
+  margin-top: 1.2cm;
+  margin-bottom: 1.2cm;
+  transition: all 0.1s ease;
+}
+
+hr:hover{
+  transform: scaleX(1.8);
+  border-color:black;
+}
+
+h1 {
+  color: #879191;
+  font-family: "Segoe Script",serif;
+  font-size:55px;
+  transition: all 0.1s linear;
+}
+
+h1:hover{
+  letter-spacing: 1px;
+  color: black;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: "Segoe Script",serif;
+  font-size:25px;
+  transition: all 0.1s linear;
+}
+
+h3:hover{
+  letter-spacing: 1.2px;
+  color:cyan;
+}
