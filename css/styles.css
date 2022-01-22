@@ -2,10 +2,7 @@
 
 body {
   background-color:#e0ffff;
-  background-image: url(https://cdn-icons-png.flaticon.com/128/2910/2910426.png),linear-gradient(to bottom right, #e0ffff , #ffe6f9 );
-  background-repeat: no-repeat;
-  background-position:50% 30%;
-  background-attachment: fixed,scroll;
+  background-image:linear-gradient(to bottom right, #e0ffff , #ffe6f9 );
   font-family: "Ink free",serif;
   font-size:22px;
   font-weight: bold;
@@ -51,3 +48,4 @@ h3:hover{
   letter-spacing: 1.2px;
   color:cyan;
 }
+
