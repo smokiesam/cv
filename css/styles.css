@@ -1,9 +1,44 @@
+/* Image url https://cdn-icons-png.flaticon.com/128/6213/6213439.png */
+/*********************************FONTS*************************************/
+/*  font-family: 'Alex Brush', cursive;
+font-family: 'Allura', cursive;
+font-family: 'Calligraffitti', cursive;
+font-family: 'Carattere', cursive;
+font-family: 'Charmonman', cursive;
+font-family: 'Cookie', cursive;
+font-family: 'Corinthia', cursive;
+font-family: 'Euphoria Script', cursive;
+font-family: 'Expletus Sans', cursive;
+font-family: 'Grand Hotel', cursive;
+font-family: 'Great Vibes', cursive;
+font-family: 'Gwendolyn', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Oooh Baby', cursive;
+font-family: 'Rouge Script', cursive;
+font-family: 'Sacramento', cursive;
+font-family: 'Waterfall', cursive;
+font-family: 'Yesteryear', cursive;
+font-family: 'Island Moments', cursive;
+font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+font-family: 'Fira Sans Condensed', sans-serif;
+font-family: 'Mada', sans-serif;
+font-family: 'Spinnaker', sans-serif;
+font-family: 'Basic', sans-serif;
+font-family: 'Average Sans', sans-serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Mulish', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Martel', serif; */
+/********************************FONTS*************************************/
+
 body {
   background-color:#e0ffff;
   background-image:linear-gradient(to bottom right, #e0ffff , #ffe6f9 );
-  font-family: "Ink free",serif;
-  font-size:22px;
+  font-family: 'Calligraffitti', cursive;
+  font-size:23px;
+  word-spacing: .175cm;
   font-weight: bold;
+  line-height: 2;
 }
 
 hr {
@@ -36,9 +71,9 @@ h1:hover{
 
 h3 {
   color: #66BFBF;
-  width:280px;
+  width:300px;
   font-family: "Segoe Script",serif;
-  font-size:28px;
+  font-size:30px;
   transition: all 0.1s linear;
 }
 
@@ -47,6 +82,6 @@ h3:hover{
   color:cyan;
 }
 
-.hyperlink{
-    text-decoration:none;
+.Hyperlink{
+  text-decoration: none;
 }
